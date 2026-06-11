@@ -1,0 +1,14 @@
+[
+  {
+    "tracking": "LX20240501CN",
+    "status": "运输中",
+    "location": "广州集散中心",
+    "timestamp": "2024-05-06 14:30"
+  },
+  {
+    "tracking": "LX20240503US",
+    "status": "已签收",
+    "location": "纽约布鲁克林",
+    "timestamp": "2024-05-08 09:15"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "order_id": "ORD-20240501-001",
+    "status": "已发货",
+    "items": ["运动短裤 Pro"],
+    "total": "29.99",
+    "tracking": "LX20240501CN",
+    "carrier": "FedEx",
+    "eta": "2024-05-10"
+  },
+  {
+    "order_id": "ORD-20240502-002",
+    "status": "处理中",
+    "items": ["环保桉树跑鞋", "高腰瑜伽紧身裤"],
+    "total": "129.98",
+    "tracking": null,
+    "carrier": "DHL",
+    "eta": "2024-05-12"
+  },
+  {
+    "order_id": "ORD-20240503-003",
+    "status": "已签收",
+    "items": ["主动降噪蓝牙耳机"],
+    "total": "79.99",
+    "tracking": "LX20240503US",
+    "carrier": "USPS",
+    "eta": "2024-05-08"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "title": "运动短裤 Pro",
+    "price": "29.99",
+    "description": "透气速干面料，适合健身和跑步，多色可选，口袋设计方便放手机。",
+    "url": "https://example.com/products/sport-shorts-pro"
+  },
+  {
+    "title": "环保桉树跑鞋",
+    "price": "89.99",
+    "description": "桉树纤维鞋面，轻便透气，适合日常慢跑和城市通勤。",
+    "url": "https://example.com/products/eco-sneakers"
+  },
+  {
+    "title": "高腰瑜伽紧身裤",
+    "price": "39.99",
+    "description": "无痕面料，高腰收腹设计，适合瑜伽、普拉提及日常穿搭。",
+    "url": "https://example.com/products/yoga-leggings"
+  },
+  {
+    "title": "澳洲羊毛保暖拖鞋",
+    "price": "49.99",
+    "description": "澳洲羊毛内衬，柔软保暖，防滑鞋底，居家必备。",
+    "url": "https://example.com/products/wool-slippers"
+  },
+  {
+    "title": "夏日碎花连衣裙",
+    "price": "59.99",
+    "description": "轻薄透气，碎花图案，收腰设计，适合夏季出行和度假。",
+    "url": "https://example.com/products/summer-dress"
+  },
+  {
+    "title": "快充移动电源 20000mAh",
+    "price": "25.99",
+    "description": "20000mAh大容量，支持PD快充，LED电量显示，可带上飞机。",
+    "url": "https://example.com/products/power-bank"
+  },
+  {
+    "title": "主动降噪蓝牙耳机",
+    "price": "79.99",
+    "description": "主动降噪，续航40小时，Hi-Res高解析音质，IPX5防水。",
+    "url": "https://example.com/products/wireless-earbuds"
+  },
+  {
+    "title": "防摔硅胶手机壳",
+    "price": "12.99",
+    "description": "液态硅胶材质，防摔抗震，支持MagSafe，适配iPhone 15全系列。",
+    "url": "https://example.com/products/silicone-phone-case"
+  }
+]
