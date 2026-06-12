@@ -1,7 +1,7 @@
 # 售前咨询Agent
 from backend.agents.base_agent import BaseAgent
 from langchain.tools import tool
-from backend.tools.product_search_local import search_products_local_database,search_products_local_Json,search_products_local_vector_store
+from backend.tools.product_search_local import search_products_local_database,search_products_local_Json,search_products_local_hybrid
 
 #1.定义一个模拟的产品查询工具(后续可替换为真实的数据库/API)
 @tool
@@ -35,6 +35,6 @@ class PresaleAgent(BaseAgent):
             system_prompt=system_prompt,
             #绑定工具
             # search_products_local_database, search_products_local_Json,
-            tools=[search_products_local_vector_store]
+            tools=[search_products_local_hybrid]
         )
 
